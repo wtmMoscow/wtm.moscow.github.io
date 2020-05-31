@@ -14,13 +14,15 @@ layout: home
 ## Контакты
 
 * чат в Telegram, где мы общаемся: [@WTM Moscow](https://t.me/wtm_moscow)
-* новостной канал в Telegram: 
-* группа в Facebook: WTM Moscow
-* канал на YouTube с трансляциями и записями: WTM Moscow
-* email: [wtm.moscow@gmail.com]
+* новостной канал в Telegram: [@WTM Moscow news](https://t.me/wtm_moscow_news)
+* бот сообщества для знакомств и общения @WTM Moscow Bot
+* группа в Facebook: [@womentechmakersmoscow](https://www.facebook.com/womentechmakersmoscow/)
+* канал на YouTube с трансляциями и записями: [WTM Moscow](https://www.youtube.com/channel/UCANZwXcqVMfnuUPuyZe_jxw/featured)
+* email: [wtm.moscow@gmail.com](wtm.moscow@gmail.com)
 
 ## Расписание (анонс) будущих мероприятий
-[https://gdgmoscow.timepad.ru/events/]
+[gdgmoscow.timepad.ru](https://gdgmoscow.timepad.ru/events/)
+
 
 ## Хочешь выступить с докладом?
 <a href="mailto:wtm.moscow@gmail.com?subject=Хочу%20выступить%20с%20докладом" target="_blank"> Напиши нам на wtm.moscow@gmail.com </a>
