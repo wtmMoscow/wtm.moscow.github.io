@@ -8,6 +8,7 @@
 layout: home
 ---
 
+![](https://scontent.fhel3-1.fna.fbcdn.net/v/t1.0-9/90522438_106248841020905_8498167822537457664_n.png?_nc_cat=104&_nc_sid=dd9801&_nc_ohc=PCtTiDc0hU8AX-pxL5z&_nc_ht=scontent.fhel3-1.fna&oh=2b08e0b3150c9a28d37f94757b850525&oe=5EFA1151)
 # Women Techmakers Moscow
 
 ## Контакты
