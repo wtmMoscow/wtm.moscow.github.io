@@ -12,18 +12,30 @@ layout: home
 # Women Techmakers Moscow
 
 ## Контакты
-Telegram @WTM Moscow
-Facebook WTM Moscow
-YouTube WTM Moscow
+
+* чат в Telegram, где мы общаемся: [@WTM Moscow](https://t.me/wtm_moscow)
+* новостной канал в Telegram: 
+* группа в Facebook: WTM Moscow
+* канал на YouTube с трансляциями и записями: WTM Moscow
+* email: [wtm.moscow@gmail.com]
 
 ## Расписание (анонс) будущих мероприятий
-https://gdgmoscow.timepad.ru/events/
+[https://gdgmoscow.timepad.ru/events/]
 
 ## Хочешь выступить с докладом?
 <a href="mailto:wtm.moscow@gmail.com?subject=Хочу%20выступить%20с%20докладом" target="_blank"> Напиши нам на wtm.moscow@gmail.com </a>
 
 ## Прошедшие мероприятия
 
+* Первый meetup
+* Второй meetup
+* Конференция IWD
+
 ## Наши партнеры
 
+* Logo Партнер 1
+* Logo Партнер 2
+
 ## Сообщество в лицах
+
+
